@@ -1,0 +1,6 @@
+Kodansha Kanji Learner's Course/
+temp/
+.DS_Store
+*.apkg
+*.zip
+.vscode/settings.json
