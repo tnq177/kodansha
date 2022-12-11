@@ -1,0 +1,6 @@
+dumb script to add Vietnamese spelling to Kanji (Hán Việt) in this [wonder annki deck for kodansha](https://www.reddit.com/r/LearnJapanese/comments/7awl99/kodansha_kanji_learners_guide_anki_deck_with_audio/). Should add code to automatically unzip apkg, edit database, rezip...but i'm too lazy rn...
+
+Data collected from:  
+* `kanji2viet.jsonl` from [this website](http://y.saromalang.com/kanji/test-kanji-1945/kanji1945). I copied their table and used some online tool to convert from html table to xlsx, have no idea why didn't use .tsv from beginning...
+* `phienam.txt` & `chinese-hanviet-cognates.tsv` from [this wonderful work by ryanphung](https://github.com/ryanphung/chinese-hanviet-cognates)
+* `kodansha_kanji_list.xlsx` from [this reddit post](https://www.reddit.com/r/LearnJapanese/comments/9jq84l/here_is_a_spreadsheet_with_information_related_to/), thank you for your hard work!  
